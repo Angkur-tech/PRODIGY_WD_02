@@ -23,5 +23,6 @@ This project is a clean, modern stopwatch app built with HTML, CSS, and JavaScri
 - Vanilla JavaScript: Efficient time calculations, display management, and lap functionality with minimal resource usage
 
 **Usage**
+
 Clone the repository and open index.html in your browser. The stopwatch is ready for use—no installation required. Ideal for productivity, workout timing, learning projects, or web development practice.
 
